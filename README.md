@@ -1,11 +1,7 @@
 # practice_Paddle
  **python实践到Paddle实践**
 
-[![img-FsxxNvl4-1623482533282](https://img.shields.io/badge/python-3.7%2B-red)](https://www.python.org/)
-
-[![amd](https://img.shields.io/badge/paddlepaddle-2.0%2B-red)](https://www.paddlepaddle.org.cn/)
-
-
+[![img-FsxxNvl4-1623482533282](https://img.shields.io/badge/python-3.7%2B-red)](https://www.python.org/)[![amd](https://img.shields.io/badge/paddlepaddle-2.0%2B-red)](https://www.paddlepaddle.org.cn/)![GitHub forks](https://img.shields.io/github/forks/jhcgt4869/practice_Paddle)![GitHub Repo stars](https://img.shields.io/github/stars/jhcgt4869/practice_Paddle)
 
 
 
@@ -51,3 +47,10 @@
 
 
 
+> 更新说明：7月1日起尽量每天更新，更新内容如下：
+>
+> 7月2日更新：
+>
+> > python模块：python安装及有关的编译器
+> >
+> > paddle模块：paddlepaddle安装及有关内容说明
