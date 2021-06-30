@@ -1,7 +1,7 @@
 # practice_Paddle
  **python实践到Paddle实践**
 
-[![img-FsxxNvl4-1623482533282](https://img.shields.io/badge/python-3.7%2B-red)](https://www.python.org/)[![amd](https://img.shields.io/badge/paddlepaddle-2.0%2B-red)](https://www.paddlepaddle.org.cn/)![GitHub forks](https://img.shields.io/github/forks/jhcgt4869/practice_Paddle)![GitHub Repo stars](https://img.shields.io/github/stars/jhcgt4869/practice_Paddle)
+[![img-FsxxNvl4-1623482533282](https://img.shields.io/badge/python-3.7%2B-red)](https://www.python.org/)  [![amd](https://img.shields.io/badge/paddlepaddle-2.0%2B-red)](https://www.paddlepaddle.org.cn/)  ![GitHub forks](https://img.shields.io/github/forks/jhcgt4869/practice_Paddle)  ![GitHub Repo stars](https://img.shields.io/github/stars/jhcgt4869/practice_Paddle)
 
 
 
