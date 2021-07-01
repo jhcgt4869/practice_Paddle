@@ -1,3 +1,4 @@
+
 # 神马是python？
 
 > 本文章对应项目：[https://aistudio.baidu.com/aistudio/projectdetail/2144759](https://aistudio.baidu.com/aistudio/projectdetail/2144759)
@@ -36,7 +37,7 @@ python作为一门编程语言，跑不过的必然是对程序员的发量的�
 
 让我们一起来看看python创始人荷兰人吉多·范罗苏姆 (Guido van Rossum)的靓照和发亮吧！
 
-<img src="E:\桌面\pyfa.jpg" alt="pybb" style="zoom:60%;" />
+<img src="https://user-images.githubusercontent.com/61859193/124131173-1bc71d80-dab2-11eb-83b3-e1fa1b4f5e6c.jpg" alt="pybb" style="zoom:60%;" />
 
 由于python之父吉多·范罗苏姆发际线低头发浓密，成为了大家羡慕的对象，于是流传了一句python名句：**人生苦短我用python**
 
