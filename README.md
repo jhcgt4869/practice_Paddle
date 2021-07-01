@@ -9,7 +9,7 @@
 
 如果您没有python基础，是一个不折不扣的小白或者想从python基础再学习或了解一遍的可以直接从[python实践模块](./python实践)开始，有关项目说明:[python 实践.md](./python实践/python实践.md)
 
-如果您有一定的python基础就可以直接从[paddle实践模块](./paddle实践)开始，这里为您提供了Paddle学习过程中的基础实践及项目内容，有关说明文档：[Paddle实践.md](./Paddle实践/Paddle实践.md)
+如果您有一定的python基础就可以直接从[Paddle实践模块](./Paddle实践)开始，这里为您提供了Paddle学习过程中的基础实践及项目内容，有关说明文档：[Paddle实践.md](./Paddle实践/Paddle实践.md)
 
 ***
 
