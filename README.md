@@ -19,11 +19,11 @@
 
 #### **第一部分：python实践**
 
-1.
+1、[python是神马？](./python实践/python是神马？.md)
 
-#### **第二部分：paddle实践**
+#### **第二部分：Paddle实践**
 
-1.
+1、[PaddlePaddle的由来](./paddle实践/PaddlePaddle的由来.md)
 
 
 

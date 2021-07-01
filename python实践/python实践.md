@@ -6,7 +6,7 @@
 
 **已完成**
 
-python 小知识—— [python是神马？](./python是神马.md)
+python 小知识—— [python是神马？](./python是神马？.md)
 
 **待完成**
 
@@ -26,7 +26,7 @@ python进阶模块
 
 ### 目录
 
-1、python是神马？
+1、 [python是神马？](./python是神马？.md)
 
 2、不一样的python（安装方式）
 
