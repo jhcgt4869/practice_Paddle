@@ -6,11 +6,9 @@
 
 **已完成**
 
-
+python 小知识—— [python是神马？](./python是神马.md)
 
 **待完成**
-
-python小知识  
 
 python基础
 
@@ -28,5 +26,13 @@ python进阶模块
 
 ### 目录
 
-……
+1、python是神马？
+
+2、不一样的python（安装方式）
+
+
+
+> 更新预告:
+>
+> 7月2日：python的安装（本体、conda、编译器等区别和选择）
 
