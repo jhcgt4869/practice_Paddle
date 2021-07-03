@@ -21,6 +21,8 @@
 
 1、[python是神马？](./python实践/python是神马？.md)
 
+2、[python的安装与编译器](./python的安装与编译器.md)
+
 #### **第二部分：Paddle实践**
 
 1、[PaddlePaddle的由来](./Paddle实践/PaddlePaddle的由来.md)
@@ -49,8 +51,8 @@
 
 > 更新说明：7月1日起尽量每天更新，更新内容如下：
 >
-> 7月2日更新：
+> 7月7日更新：
 >
-> > python模块：python安装及有关的编译器
+> > python模块：input or print
 > >
 > > Paddle模块：PaddlePaddle安装及有关内容说明
