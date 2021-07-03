@@ -8,6 +8,8 @@
 
 python 小知识—— [python是神马？](./python是神马？.md)
 
+[python的安装与编译器](./python的安装与编译器.md)
+
 **待完成**
 
 python基础
@@ -28,11 +30,11 @@ python进阶模块
 
 1、 [python是神马？](./python是神马？.md)
 
-2、不一样的python（安装方式）
+2、[python的安装与编译器](./python的安装与编译器.md)
 
 
 
 > 更新预告:
 >
-> 7月2日：python的安装（本体、conda、编译器等区别和选择）
+> 7月7日：print or input
 
