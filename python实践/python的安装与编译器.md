@@ -16,7 +16,8 @@ python的安装有几种方式：安装python本体、安装conda（开源的软
 
 ### python本体
 
-本体就是单个的python环境，自带IDLE编译器<img src="C:\Users\xjb\AppData\Roaming\Typora\typora-user-images\image-20210703150848118.png" alt="image-20210703150848118" style="zoom: 67%;" />
+本体就是单个的python环境，自带IDLE编译器
+<img src="https://user-images.githubusercontent.com/61859193/124354084-c66b4780-dc3c-11eb-9608-8c2e2e4c9bcf.png" alt="image-20210703150848118" style="zoom: 67%;" />
 
 该环境可以实现python的运行等，大部分的事情，配合各类编译器使用非常Nice！
 
@@ -53,8 +54,8 @@ Conda 是一个开源的软件包管理系统和环境管理系统，用于安�
   本体可以通过在cmd中使用`pip install jupyterlab`进行安装，然后使用`jupyter notebook`代码进行运行。
 
   conda中自带了notebook环境点击即可，或者使用`jupyter notebook`代码进行运行。
+  ![image-20210703160338770](https://user-images.githubusercontent.com/61859193/124354098-d97e1780-dc3c-11eb-8798-baab4a64e594.png)
 
-  ![image-20210703160338770](C:\Users\xjb\AppData\Roaming\Typora\typora-user-images\image-20210703160338770.png)
 
 
 
