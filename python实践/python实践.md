@@ -14,7 +14,7 @@ python 小知识—— [python是神马？](./python是神马？.md)
 
 > [输入输出白话说明](./print_or_input/print_or_input.md)
 >
-> [输入输出说明实战(./print_or_input/print_or_input.ipynb)
+> [输入输出说明实战](./print_or_input/print_or_input.ipynb)
 >
 > [输入输出实战](./print_or_input/print_or_input.py)
 
