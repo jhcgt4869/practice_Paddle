@@ -25,11 +25,11 @@
 
 3、[python 输入输出实战](./print_or_input/)
 
-> [输入输出白话说明](./print_or_input/print_or_input.md)
+> [输入输出白话说明](./python实践/print_or_input/print_or_input.md)
 >
-> [输入输出说明实战](./print_or_input/print_or_input.ipynb)
+> [输入输出说明实战](./python实践/print_or_input/print_or_input.ipynb)
 >
-> [输入输出实战](./print_or_input/print_or_input.py)
+> [输入输出实战](./python实践/print_or_input/print_or_input.py)
 
 #### **第二部分：Paddle实践**
 
