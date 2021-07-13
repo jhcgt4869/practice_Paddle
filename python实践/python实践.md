@@ -10,6 +10,14 @@ python 小知识—— [python是神马？](./python是神马？.md)
 
 [python的安装与编译器](./python的安装与编译器.md)
 
+[python 输入输出实战](./print_or_input/)
+
+> [输入输出白话说明](./print_or_input/print_or_input.md)
+>
+> [输入输出说明实战(./print_or_input/print_or_input.ipynb)
+>
+> [输入输出实战](./print_or_input/print_or_input.py)
+
 **待完成**
 
 python基础
@@ -36,5 +44,5 @@ python进阶模块
 
 > 更新预告:
 >
-> 7月7日：print or input
+> 7月16日：基本运算符
 
