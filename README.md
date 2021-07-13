@@ -23,6 +23,14 @@
 
 2、[python的安装与编译器](./python的安装与编译器.md)
 
+3、[python 输入输出实战](./print_or_input/)
+
+> [输入输出白话说明](./print_or_input/print_or_input.md)
+>
+> [输入输出说明实战](./print_or_input/print_or_input.ipynb)
+>
+> [输入输出实战](./print_or_input/print_or_input.py)
+
 #### **第二部分：Paddle实践**
 
 1、[PaddlePaddle的由来](./Paddle实践/PaddlePaddle的由来.md)
@@ -51,8 +59,8 @@
 
 > 更新说明：7月1日起尽量每天更新，更新内容如下：
 >
-> 7月7日更新：
+> 7月16日更新：
 >
-> > python模块：input or print
+> > python模块：基本算法
 > >
 > > Paddle模块：PaddlePaddle安装及有关内容说明
