@@ -1,4 +1,4 @@
-# input or print
+# print or input
 
 ​	这篇让我们一起来看看输入输出吧~~~
 
