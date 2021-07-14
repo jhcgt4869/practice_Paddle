@@ -150,6 +150,8 @@ print('身高：%.2f,年龄：%d' % (180, 20))
 
 
 
+> 实战线上平台地址：[https://aistudio.baidu.com/aistudio/projectdetail/2185367](https://aistudio.baidu.com/aistudio/projectdetail/2185367)
+>
 > 项目解析实战：[输入输出项目解析](./input_or_print.ipynb)
 >
 > 项目实战：[print_or_input.py](./print_or_input.py)
