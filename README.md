@@ -31,6 +31,12 @@
 >
 > [输入输出实战](./python实践/print_or_input/print_or_input.py)
 
+[python基本运算符](./python基本运算符)
+
+> [python基本运算符说明](./python实践/python基本运算符/python基本运算符.md)
+>
+> [python基本运算符实践](./python实践/python基本运算符/python基本运算符.ipynb)
+
 #### **第二部分：Paddle实践**
 
 1、[PaddlePaddle的由来](./Paddle实践/PaddlePaddle的由来.md)
@@ -59,8 +65,8 @@
 
 > 更新说明：7月1日起尽量每天更新，更新内容如下：
 >
-> 7月16日更新：
+> 7月xx日更新：
 >
-> > python模块：基本算法
+> > python模块：xxxx
 > >
 > > Paddle模块：PaddlePaddle安装及有关内容说明
