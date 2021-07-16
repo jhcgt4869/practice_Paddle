@@ -18,6 +18,12 @@ python 小知识—— [python是神马？](./python是神马？.md)
 >
 > [输入输出实战](./print_or_input/print_or_input.py)
 
+[python基本运算符](./python基本运算符)
+
+> [python基本运算符说明](./python基本运算符/python基本运算符.md)
+>
+> [python基本运算符实践](./python基本运算符/python基本运算符.ipynb)
+
 **待完成**
 
 python基础
@@ -44,5 +50,5 @@ python进阶模块
 
 > 更新预告:
 >
-> 7月16日：基本运算符
+> 7月16日：xxxx
 
